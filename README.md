@@ -59,7 +59,7 @@ Press Below Button to Deploy!
 </p>
 
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Akku](https://t.me/Raja_sekar_811) | [TELEGRAM](https://t.me/raja_sekar_811)| 
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Akku] | [TELEGRAM](https://t.me/raja_sekar_811)| 
   [ɢɪᴛʜᴜʙ](https://GitHub.com/Rajasekar811)</b>
                                                                                                                                                                                     
 <b>ᴄʜᴀɴɴᴇʟ ›› [ROYAL_MOVIZ](https://t.me/royal_moviz)</b>
