@@ -37,10 +37,10 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajasekar811/OP-Rename-Bot)
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
-#### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
+#### Inspired from [@RS_Bot](https://t.me/akku811_bot) 
 
 ### Follow on:
 <p align="left">
@@ -53,9 +53,9 @@ Press Below Button to Deploy!
 <a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/_.akku.______><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
 
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [ᴀᴀᴅʜɪ](https://telegram.dog/AboutAadhi) | [ɪɴsᴛᴀɢʀᴀᴍ](https://www.instagram.com/_aadil_m__/) | [ɢɪᴛʜᴜʙ](GitHub.com/Aadhi000)</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Akku](https://telegram.dog/AboutRaja_sekar_811) | [TELEGRAM](https://t.me/royal_moviz) | [ɢɪᴛʜᴜʙ](GitHub.com/Rajasekar811)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ](https://t.me/MWUpdatez)</b>
