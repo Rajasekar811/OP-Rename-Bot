@@ -26,7 +26,7 @@ status - Show Users Count in DB. (Admin Only)
 ```
 
 ### Support Group
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/royal_moviz"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
@@ -58,5 +58,5 @@ Press Below Button to Deploy!
 
 </p>
  <p align="left">  
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Akku](https://telegram.dog/AboutRaja_sekar_811) | [TELEGRAM](https://t.me/royal_moviz) | [ɢɪᴛʜᴜʙ](GitHub.com/Rajasekar811)</b>                                                                                                                                                                                    
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Akku](https://telegram.dog/AboutRaja_sekar_811) | [TELEGRAM](https://t.me/raja_sekar_811| [ɢɪᴛʜᴜʙ](GitHub.com/Rajasekar811)</b>                                                                                                                                                                                    
 <b>ᴄʜᴀɴɴᴇʟ ›› [ROYAL_MOVIZ](https://t.me/royal_moviz)</b>
