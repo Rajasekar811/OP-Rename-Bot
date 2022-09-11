@@ -59,7 +59,7 @@ Press Below Button to Deploy!
 </p>
 
 
-<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Akku](https://t.me/raja_sekar_811) | [INSTAGRAM]("https://instagram.com/_.akku._____")| 
+<b>ᴅᴇᴠᴇʟᴏᴘᴇʀ ›› [Akku](https://t.me/raja_sekar_811) | [INSTAGRAM](https://instagram.com/_.akku._____)| 
   [ɢɪᴛʜᴜʙ](https://GitHub.com/Rajasekar811)</b>
                                                                                                                                                                                     
 <b>ᴄʜᴀɴɴᴇʟ ›› [ROYAL_MOVIZ](https://t.me/royal_moviz)</b>
